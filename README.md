@@ -1,3 +1,3 @@
 # Test
 根深情种
-* [1.http://www.sdifen.com/cleanmymac374.html](#http://www.sdifen.com/cleanmymac374.html)
+<a href="http://write.blog.csdn.net/postlist" target="_blank">麦田里的码农</a>
